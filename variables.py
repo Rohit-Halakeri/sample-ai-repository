@@ -1,3 +1,7 @@
+#Very Descripting
+#student_first_name
+#StudentPhoneNumber
+
 #Allowed
 myage=35
 my_age=35
